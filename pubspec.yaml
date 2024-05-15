@@ -89,7 +89,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-  fonts:
-        - family: Young & Beautiful
-          fonts:
-            - asset: assets/fonts/Young & Beautiful.ttf

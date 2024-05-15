@@ -17,7 +17,6 @@ class Design2 extends StatelessWidget {
                 "AUROA",
                 style: TextStyle(
                   fontSize: 48,
-                  fontFamily: 'Young & Beautiful',
                 ),
               ),
             ),

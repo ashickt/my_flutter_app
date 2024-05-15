@@ -4,6 +4,8 @@ import 'package:my_flutter_app/widgets/design1/Categories.dart';
 import 'package:my_flutter_app/widgets/design1/IncomingExpenses.dart';
 
 class Design1 extends StatelessWidget {
+  const Design1({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
